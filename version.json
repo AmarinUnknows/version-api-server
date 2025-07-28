@@ -2,5 +2,5 @@
      "latest_version": "0.2",
      "changelog": "Major update with new features",
      "force_update": false,
-     "min_required_version": "0.1"
+     "min_required_version": "0.2"
    }
